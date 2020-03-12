@@ -1,0 +1,12 @@
+c:\users\_dangerousman\documents\visual studio 2013\Projects\mMafya-bot-source\mMafya Bot\bin\Debug\mMafya Bot.exe.config
+c:\users\_dangerousman\documents\visual studio 2013\Projects\mMafya-bot-source\mMafya Bot\bin\Debug\mMafya Bot.exe
+c:\users\_dangerousman\documents\visual studio 2013\Projects\mMafya-bot-source\mMafya Bot\bin\Debug\mMafya Bot.pdb
+c:\users\_dangerousman\documents\visual studio 2013\Projects\mMafya-bot-source\mMafya Bot\obj\Debug\mMafya Bot.csprojResolveAssemblyReference.cache
+c:\users\_dangerousman\documents\visual studio 2013\Projects\mMafya-bot-source\mMafya Bot\obj\Debug\mMafya_Bot.Form1.resources
+c:\users\_dangerousman\documents\visual studio 2013\Projects\mMafya-bot-source\mMafya Bot\obj\Debug\mMafya_Bot.Properties.Resources.resources
+c:\users\_dangerousman\documents\visual studio 2013\Projects\mMafya-bot-source\mMafya Bot\obj\Debug\mMafya Bot.csproj.GenerateResource.Cache
+c:\users\_dangerousman\documents\visual studio 2013\Projects\mMafya-bot-source\mMafya Bot\obj\Debug\mMafya Bot.exe
+c:\users\_dangerousman\documents\visual studio 2013\Projects\mMafya-bot-source\mMafya Bot\obj\Debug\mMafya Bot.pdb
+X:\VB6 - C# Projelerim\mMafya-bot-source\mMafya Bot\bin\Debug\mMafya Bot.exe.config
+X:\VB6 - C# Projelerim\mMafya-bot-source\mMafya Bot\obj\Debug\mMafya Bot.exe
+X:\VB6 - C# Projelerim\mMafya-bot-source\mMafya Bot\obj\Debug\mMafya Bot.pdb
